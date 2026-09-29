@@ -1,1 +1,2 @@
 # odin-recipes
+This is a small recipe website, which will demonstrate skills in creating an index.html page with links to different HTML files as secondary pages of the same website. Also the use of images, headers and lists.
